@@ -1,2 +1,2 @@
 # project
-Frist project
+First project
